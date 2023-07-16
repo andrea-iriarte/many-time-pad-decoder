@@ -1,2 +1,2 @@
 # many-time-pad-decoder
-helper code for a cryptology assignment
+helper code has bsic utility functions for converting between different numerical representations. there is also a function that takes the exclusive or of two hex values, and another that applies the aforementioned function over two strings. lastly there is a function that detects spaces by searching for values within a certain range in the even numbered indicies of a string (c1 XOR c2). From here, the remaining calculations were done manually, but the intent is to eventually automate these processes. 
